@@ -1,34 +1,19 @@
-# Project Name
+# Project Portfolio
 
-<!-- describe your project -->
-
----
+- We have the project of personal Portfolio . we have to describe about our
+- qualification and skills .
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
-
----
-
-<!-- copy this section once for each must-have user story -->
+- we are going to use HTML and css for coding .
+- vs code for planning .
 
 ## user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
-
-> "as a ... i can ... so that ..."
-
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- create a personal portfolio.
+- setup a HTML and css repo in github account.
+- clone the code in vs account.
+- coding with the HTML and style the content with CSS.
 
 ### Logic: user story
 
