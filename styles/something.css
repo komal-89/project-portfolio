@@ -93,3 +93,33 @@
   box-shadow: 0 0 5px white, 0 0 15px white;
   font-weight: bold;
 }
+/* about section */
+
+#about {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 60px;
+}
+
+#pic img {
+  width: 575px;
+  height: 400px;
+}
+
+#intro {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  padding: 10px;
+}
+
+#intro h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about-container {
+  display: flex;
+}
