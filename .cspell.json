@@ -19,7 +19,10 @@
     "Zepel",
     "Komal",
     "KOMAL",
-    "MISRA"
+    "MISRA",
+    "MISHRA",
+    "curosity",
+    "beleieve"
   ],
   "ignorePaths": [
     "node_modules/**",
