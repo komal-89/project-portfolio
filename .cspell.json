@@ -22,7 +22,14 @@
     "MISRA",
     "MISHRA",
     "curosity",
-    "beleieve"
+    "beleieve",
+    "horiz",
+    "nocookie",
+    "Iframe",
+    "enablejsapi",
+    "iframe",
+    "utma",
+    "utmb"
   ],
   "ignorePaths": [
     "node_modules/**",
